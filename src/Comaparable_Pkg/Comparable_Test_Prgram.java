@@ -38,6 +38,7 @@ public class Comparable_Test_Prgram
 		Collections.sort(list);
 		for(Student st:list)
 		{
+			System.out.println("student data is printed:-");
 			System.out.println(st.age+ " " +st.name+ " " +st.rollno);
 		}
 		
