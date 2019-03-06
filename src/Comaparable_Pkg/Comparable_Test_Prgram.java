@@ -40,6 +40,7 @@ public class Comparable_Test_Prgram
 		{
 			System.out.println("student data is printed:-");
 			System.out.println(st.age+ " " +st.name+ " " +st.rollno);
+			System.out.println("data print sucessfully...");
 		}
 		
 	}
